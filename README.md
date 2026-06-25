@@ -2,14 +2,14 @@
 
 A simple Python calculator.
 
-## Fuctions
+## Functions
 
 - `add(a, b)` — adds two numbers
 - `subtract(a, b)` — subtracts b from a
-- `multiply(a, b)` — multiplys two numbers
+- `multiply(a, b)` — multiplies two numbers
 - `divide(a, b)` — divides a by b
 
-## Usuage
+## Usage
 
 ```python
 from calculator import add, subtract, multiply, divide
